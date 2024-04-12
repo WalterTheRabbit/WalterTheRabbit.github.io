@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   fill="none"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="promo_image_2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.1875"
+     inkscape:cx="32"
+     inkscape:cy="32.037915"
+     inkscape:window-width="1852"
+     inkscape:window-height="1016"
+     inkscape:window-x="1988"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     d="M22.9589 22.3356C22.9589 22.3356 15.6169 19.0749 11.7499 21.4192L14.5494 27.0348C14.5494 27.0348 12.251 28.9634 10.6061 31.5741C9.64749 33.0979 8.26406 34.3553 6.55384 34.9733C5.95472 35.1864 5.30113 35.3463 4.57129 35.3995L5.24666 43.2635C5.24666 43.2635 11.4666 45.2881 16.7171 49.9234L22.0112 54.857H25.1375L27.534 50.4562C27.534 50.4562 32.839 52.1717 38.9827 50.4562L41.5535 54.857H44.9413L50.6928 44.6807C50.6928 44.6807 54.9194 37.0405 50.6928 29.2831C50.6928 29.2831 48.2637 23.8913 41.4663 22.3249"
+     stroke="white"
+     stroke-width="1.77778"
+     stroke-miterlimit="10"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path2" />
+  <path
+     d="M17.6 35.2C18.4837 35.2 19.2 34.4837 19.2 33.6C19.2 32.7163 18.4837 32 17.6 32C16.7163 32 16 32.7163 16 33.6C16 34.4837 16.7163 35.2 17.6 35.2Z"
+     fill="white"
+     id="path4" />
+  <path
+     d="M26.2859 27.4289C26.2859 27.4289 33.143 25.143 38.8573 27.4289"
+     stroke="white"
+     stroke-width="1.77778"
+     stroke-miterlimit="10"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path6" />
+  <path
+     d="M32 20.5707C35.7871 20.5707 38.8571 17.5007 38.8571 13.7136C38.8571 9.92649 35.7871 6.85645 32 6.85645C28.2129 6.85645 25.1428 9.92649 25.1428 13.7136C25.1428 17.5007 28.2129 20.5707 32 20.5707Z"
+     stroke="#1199FA"
+     stroke-width="1.77778"
+     stroke-miterlimit="10"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path8"
+     style="stroke:#ff00c4;stroke-opacity:1" />
+  <path
+     d="M52.5713 35.6486C52.5713 35.6486 54.0694 36.386 55.7139 36.5519C59.8112 36.9653 60.8078 33.6776 60.5713 32"
+     stroke="white"
+     stroke-width="1.77778"
+     stroke-miterlimit="10"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path10" />
+</svg>
