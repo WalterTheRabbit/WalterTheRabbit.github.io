@@ -1,3 +1,16 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for https://www.waltertherabbit.com/
+
+# Allow all web crawlers access to all content
 User-agent: *
 Disallow:
+
+# You can also block specific sections or files
+# Disallow: /private/
+# Disallow: /admin/
+
+# Block specific bots (example: Googlebot)
+# User-agent: Googlebot
+# Disallow: /no-googlebot/
+
+# Sitemap location
+Sitemap: https://www.waltertherabbit.com/sitemap.xml
