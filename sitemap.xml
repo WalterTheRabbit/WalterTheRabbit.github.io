@@ -3,7 +3,7 @@
     <url>
         <loc>https://www.waltertherabbit.com/</loc>
         <lastmod>2025-01-24</lastmod>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
@@ -19,7 +19,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.waltertherabbit.com/contact/</loc>
+        <loc>https://www.waltertherabbit.com/docs/Tokenomics.md</loc>
         <lastmod>2025-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
